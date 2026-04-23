@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KAFÉ-ART ALGERIE</title>
+
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -125,7 +125,6 @@
     <header>
         <div class="logo">
             <h1>☕ KAFÉ-ART ALGERIE</h1>
-            <p>قهوة مختصة ✦ حرف يدوية جزائرية</p>
         </div>
         <nav>
             <a href="#">Accueil</a>
